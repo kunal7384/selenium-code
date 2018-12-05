@@ -35,7 +35,7 @@ public class Synchronization {
 	  
 	  SynchronizationUtility.utilityById(driver,"username_or_email", 10).sendKeys("asdfghj");
 	
-
+      System.out.println("Done");
 	
 	
 		
